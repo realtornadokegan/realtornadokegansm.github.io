@@ -1,23 +1,20 @@
-![SignMaker Preview Thumbnail](https://github.com/JKPotato-Computer/SignMaker/blob/main/img/other-symbols/Banner.png)
-Version: 2.1
 
-SignMaker is a JavaScript-based app for creating highway guide signs. Based off of [Kurumi's Sign Maker](http://www.kurumi.com/roads/signmaker). Allows for the creation of highway guide signs in the style defined by the United States FHWA in their [MUTCD](https://mutcd.fhwa.dot.gov/kno_2009r1r2.htm).
+Tornado Sign Maker is a JavaScript-based app for creating highway guide signs. Based off of[JKPotato-Computer's SignMaker ](https://github.com/JKPotato-Computer/SignMaker), as well as [Kurumi's Sign Maker](http://www.kurumi.com/roads/signmaker) Allows for the creation of highway guide signs in the style defined by the United States FHWA in their [MUTCD](https://mutcd.fhwa.dot.gov/kno_2009r1r2.htm).
 
-This version of SignMaker is an attempt to reproduce most of the sign mechanics used in the real world, including:
+This version of SignMaker is an attempt to "Make Sign Maker Great Again" baised off of JKPotato Sign Maker, this fork uses most of the sign mechanics used in the real world, we plan on adding several things in the future, including:
+- More Toll and Hwy Shields
+- Shields from Other countries
+- More Gantry Types
+And Much more.
 
-* The usage of the Clearview font (some states/provinces use Clearview on their signs)
-* Realistic arrows (Uses PNGs of Arrows rather than fonts)
-* Subpanels (multiple signs in one panel for advanced navigation)
-* Advanced Exit Tabs (allow multiple exit tabs at once + more configuration)
-* Two Shield Banners (allows the usage of more than one shield banner, future updates on positioning + type will be made)
-* Panel Padding (make the infamous Katy Freeway signs)
-* and more to come soon..
+
 
 ## Social Links
-Join us on **DISCORD:** https://discord.gg/yJBWggf7p4
+Join us on **DISCORD:** https://discord.gg/tEtkR4MfVt
 
 ## Acknowledgements
 
+Directly Forked from [JKPotato-Computer/SignMaker](https://github.com/JKPotato-Computer/SignMaker)
 Forked from [dki-os/SignMaker](https://github.com/dki-os/SignMaker).
 Originally created by [Brendon Strowe](https://github.com/BrenStro).
 
